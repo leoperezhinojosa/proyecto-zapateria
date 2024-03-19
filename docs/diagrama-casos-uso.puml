@@ -1,0 +1,16 @@
+@startuml
+
+usecase (esto es un proceso)
+actor :esto es una persona:
+
+
+
+
+
+
+
+
+
+
+
+@enduml
